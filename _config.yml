@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Yan Jiang"
 title_separator          : "-"
 name                     : &name "Yan Jiang"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Master Student at The University of Queensland"
+url                      : https://yanjiangjerry.github.io/YanJiang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YanJiangJerry/YanJiang.github.io"
 teaser                   : "yan.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -23,7 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : "http-YanJiang-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yan Jiang"
+  name             : "Yan Jiang 姜彦"
   avatar           : "yan.png"
-  bio              : "姜彦"
-  location         : "Location"
+  bio              : "Master Student At UQ"
+  location         : "Brisbane, Australia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -94,9 +94,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "YanJiangJerry"
   foursquare       :
-  github           : "academicpages"
+  github           : "YanJiangJerry"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "YanJiangJerry"
   vine             :
   weibo            :
   xing             :

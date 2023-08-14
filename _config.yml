@@ -11,7 +11,7 @@ title                    : "Yan Jiang"
 title_separator          : "-"
 name                     : &name "Yan Jiang"
 description              : &description "Master Student at The University of Queensland"
-url                      : https://yanjiangjerry.github.io/YanJiang.github.io/
+url                      : https://yanjiangjerry.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanjiangjerry.github.io"
 teaser                   : "yan.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

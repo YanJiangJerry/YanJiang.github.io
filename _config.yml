@@ -13,7 +13,7 @@ name                     : &name "Yan Jiang"
 description              : &description "Master Student at The University of Queensland"
 url                      : https://yanjiangjerry.github.io/YanJiang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YanJiangJerry/YanJiang.github.io"
+repository               : "yanjiangjerry.github.io"
 teaser                   : "yan.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yan Jiang 姜彦"
+  name             : "Yan Jiang (姜彦)"
   avatar           : "yan.png"
   bio              : "Master Student At UQ"
   location         : "Brisbane, Australia"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "Yan Jiang"
+  youtube          : "YanJiang-wb9zd"
   wikipedia        :
 
 

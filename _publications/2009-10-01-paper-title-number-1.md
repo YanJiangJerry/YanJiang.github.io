@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 1"
+title: "Balanced and Explainable Social Media Analysis for Public Health with Large Language Models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023adc
+excerpt: '**Yan Jiang**, Ruihong Qiu, Yi Zhang, Peng-Fei Zhang'
+date: 2023
+venue: 'ADC'
+paperurl: 'http://arxiv.org/abs/2309.05951'
+pubtype: 'conference'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+**Yan Jiang**, Ruihong Qiu, Yi Zhang, Peng-Fei Zhang
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[\[arXiv\]](https://arxiv.org/abs/1911.11942)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 
+
+@article{ALEX2,
+  author       = {Yan Jiang and Ruihong Qiu and Yi Zhang and Peng-Fei Zhang},
+  title        = {Balanced and Explainable Social Media Analysis for Public Health with Large Language Models},
+  journal      = {CoRR},
+  volume       = {abs/2309.05951},
+  year         = {2023},
+}

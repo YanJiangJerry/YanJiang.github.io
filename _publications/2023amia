@@ -1,0 +1,24 @@
+---
+title: "UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media"
+collection: publications
+permalink: /publication/2023amia
+excerpt: '**Yan Jiang**, Ruihong Qiu, Yi Zhang, Zi Huang'
+date: 2023-09-15
+venue: 'AMIA'
+paperurl: 'http://arxiv.org/abs/2309.04213'
+citation: 'conference'
+---
+**Yan Jiang**, Ruihong Qiu, Yi Zhang, Zi Huang
+
+[\[arXiv\]](http://arxiv.org/abs/2309.04213)
+
+Recommended citation: 
+```
+@article{ALEX1,
+  author       = {Yan Jiang and Ruihong Qiu and Yi Zhang and Zi Huang},
+  title        = {UQ at #SMM4H 2023: ALEX for Public Health Analysis with Social Media},
+  journal      = {CoRR},
+  volume       = {abs/2309.04213},
+  year         = {2023},
+}
+```

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yan Jiang"
 title_separator          : "-"
 name                     : &name "Yan Jiang 姜彦"
-description              : &description "Master Student at The University of Queensland"
+description              : &description "PhD Student at The University of Queensland"
 url                      : https://yanjiangjerry.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanjiangjerry.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yan Jiang 姜彦"
   avatar           : "yan.png"
-  bio              : "Master Student At UQ"
+  bio              : "PhD Student At UQ"
   location         : "Brisbane, Australia"
   employer         :
   pubmed           : 

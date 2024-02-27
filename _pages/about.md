@@ -10,7 +10,7 @@ redirect_from:
 
 姜彦 /`Jerry/
 
-I am currently a PhD student at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>, where I did my Bachelor in computer science and Master of data science in UQ supervised by Professor Helen Huang <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> and graduated at 16 Dec 2023.
+I am currently a PhD student at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>, where I did my Bachelor in computer science and Master of data science in UQ supervised by <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Professor Helen Huang</a> and graduated at 16 Dec 2023.
 
 My research focuses on graph neural networks (GNN), information retrieval (IR) and natural language processing (NLP).
 
